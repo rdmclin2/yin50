@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yin50</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">50音の洗礼</string>
+    <string name="claim">骚年，既然你能找到这里，那么你一定准备好接受『50音の洗礼』了！好，接下来，你将分等级接受洗礼，一共7级。为了安全起见，我们先从1级难度开始。でも，只要答错一次就无法解锁下一关，很变态吧？！哇哈哈哈！现在逃跑还来得及！怎样，你的选择是？</string>
+    <string name="ok">挑戦しましょう</string>
+    <string name="cancel">逃げろう</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+    <string name="pause">||</string>
+    <string name="number">1/xx</string>
+    <string name="first">第一个选项</string>
+    <string name="second">第二个选项</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="retry">再来一遍</string>
+    <string name="next">下一关</string>
+    <string name="title_activity_learn">LearnActivity</string>
+    <string name="where_to_go">你要去哪儿？</string>
+    <string name="what_you_can_do">通关这个APP，你可以：
+1. 听懂AV中的所有对白
+2. 看懂所有日本动漫、游戏
+3. 去日本无脑旅游、留学、工作
+4. 跟日本萝莉/大叔调情闲聊
+...
+其实这些你都做不到，但这个APP能帮你尽快达到日语大神的级别，然后想干嘛就能干嘛。
+怎么样？你的选择是？</string>
+    <string name="tobe_god">成为大神</string>
+    <string name="goto_learn">马上去学习</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="continue_game">继续游戏</string>
+    <string name="restart">重新开始</string>
+    <string name="back_to_main">回主菜单</string>
+
+</resources>
